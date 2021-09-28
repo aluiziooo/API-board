@@ -9,14 +9,20 @@ Exemplo
 Dada o tabuleiro: "xxo o   " 
 
 represetação 2d: 
+   
     x    x    o 
+    
     -    o    - 
+    
     -    -    - 
 
 
 a API deve retornar como resposta: "xxo o o  "
 
 representação 2d:
+
     x    x    o 
+    
     -    o    - 
+    
     o    -    - 
